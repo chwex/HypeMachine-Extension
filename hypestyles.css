@@ -78,4 +78,7 @@ table {
 #DownloadAllSection {
     font-size: 14px;
     float: right;
+	position: absolute !important;
+	bottom: 90%;
+	right:5%;
 }
